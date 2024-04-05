@@ -1,0 +1,8 @@
+/_x.*
+/.vscode
+/.Xil
+/*.log
+/*.tapa
+/build
+/build_dir.*
+/host
